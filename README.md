@@ -7,6 +7,8 @@ In this project we were given a data set with UFO sightings. In order to make th
 ## Results 
 
 On the left-hand side of the page, you will find 5 search bars. In the back end we have connected these to the data so we can filter based on date, city, state, country or shape. See below of two examples where we filtered the data. The first we filtered by the city El Cajon and the second we filtered by the state AR. 
+#![Alt Image Text](https://github.com/mkback/UFOs/blob/main/static/images/Filter_ex1.png)
+#![Alt Image Text](https://github.com/mkback/UFOs/blob/main/static/images/Filter_ex2.jpg)
 
 ## Summary 
 
